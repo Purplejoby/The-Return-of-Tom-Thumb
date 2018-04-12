@@ -43,8 +43,11 @@ Intelligence:	17 (3)
 Initiative:	3  
 Wisdom:	17 (3)
 Melee:	1 + -1 + 0 = 0
+Unarmed strike (small being) 1d2 (add -1 because of strength) bludgeoning type damage (×2 on critical) *note improved unarmed strike means this is real damage not subdual damage
+Stool leg 1d3 (-1 str) bludgeoning type damage (×2 on critical)
 Charisma:	17 (3)
 Ranged:	1 + 3 + 0 = 4
+Rock 1d2 bludgeoning type damage (×2 on critical)
 Armor Class: 3 + 10 + 0 = 13
 
 Skills:
@@ -70,7 +73,7 @@ Simple weapon proficiency
 Favored enemy (rodents)
 Dodge
 Improved unarmed strike
-Lesser Stunning Fist *(same as Stunning Fist but only a 20% chance of success)
+Lesser stunning fist *(same as Stunning fist but only a 20% chance of success)
 
 Languages:
 Common
