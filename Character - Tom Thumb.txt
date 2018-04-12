@@ -31,6 +31,7 @@ Tom Thumb
 Human, Ranger lvl 1 
 Hit Points: 7
 Base Attack Bonus:	1
+Alignment: Feral/Loyal
 
 Strength:	8 (-1)
 Fortitude:	2 + -1 = 1
@@ -63,15 +64,14 @@ tumble 2 + 3 = 5
 use rope 4 + 3 = 7
 
 Feats/Specials:
-acrobatic
-armor proficiency light
-martial weapon proficiency
-self sufficient
-shield proficiency
-simple weapon proficiency
+Acrobatic
+Self sufficient
+Simple weapon proficiency
 Favored enemy (rodents)
-Track, wild empathy
+Dodge
+Improved unarmed strike
+Lesser Stunning Fist *(same as Stunning Fist but only a 20% chance of success)
 
 Languages:
 Common
-
+(note she can learn three more languages (Int. bonus of 3))
