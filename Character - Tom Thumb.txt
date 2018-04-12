@@ -42,7 +42,7 @@ Intelligence:	17 (3)
 Initiative:	3  
 Wisdom:	17 (3)
 Melee:	1 + -1 + 0 = 0
-Charisma:	17 (3_
+Charisma:	17 (3)
 Ranged:	1 + 3 + 0 = 4
 Armor Class: 3 + 10 + 0 = 13
 
