@@ -1,12 +1,15 @@
 Red Riding Hood
 Is devastatingly beautiful 
 Doesn’t need to prove anything to anyone
+Her dancing is legendary across the land
 Is the daughter of a woodcutter 
 Her woodcutter father is a powerful criminal underworld boss
 Her fathers gangster network curries opposition against the kings tax collectors, but the gansters impose their own oppression
 Spoilt and snobby she is on the posh side of common
 Daddys girl
 Cliquey and well connected although she doesn’t share and the clique is exclusive
+She knows all the bandits, beggers and underworld characters because this is her fathers network
+She will chat to them fondly asking after their families and afairs. They quite like and trust her AND are terrified of her father
 Selfish and bright enough to be considerate but is often not. When she is considerate it is reluctantly 
 She’s feared by those who know of her family's reputation (none of this group does)
 But Red Riding Hood is not evil, she just has an evil family. She’s just a girl doing her thing
@@ -38,8 +41,8 @@ Red Riding Hood
 Classes: Rogue 
 Level:	1
 Race:	Human
-Alignment:	Gangsta/Indifferent
 Hit Points:	7
+Alignment:	Gangsta/Indifferent
 Base Attack Bonus: 0
 
 Strength:	7 (-2)
@@ -52,8 +55,14 @@ Intelligence:	14 (2)
 Initiative:	0 +  = 0
 Wisdom:	9 (-1)
 Melee: 0 + -2 +  = -2
+She doesn't fight
+She might smash a big porcline Jug over someones head, 1 point of subdual damadge
+But she knows all the bandits, robbers and low life, they work for her dad
+And the Kings Knights think her dad is a hero, and she is well in favour with them what with her amazing dancing
+She's got it all sorted, who's she going to smash a jug over?
 Charisma:	16 (3)
 Ranged:	0 + 0 +  = 0
+She can throw a rock I guess 1d2 bludgening damadge
 
 Armor Class:	0 + 10 + 0 =  10
 
