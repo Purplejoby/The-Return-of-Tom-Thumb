@@ -31,7 +31,7 @@ Tom Thumb
 Human, Ranger lvl 1 
 Hit Points: 7
 Base Attack Bonus:	1
-Alignment: Feral/Loyal
+Alignment: Feral/Loyal Benevolent
 
 Strength:	8 (-1)
 Fortitude:	2 + -1 = 1
