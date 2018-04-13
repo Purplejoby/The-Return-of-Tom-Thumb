@@ -75,3 +75,8 @@ Feats/Specials:
 iron will
 persuasive
 connected (*well known ganster family. +4 bonus to intimidate)
+
+Languages:
+Common
+Theives cant (aka peddler's French)
+(note she can learn two more languages (Int. bonus of 2))
