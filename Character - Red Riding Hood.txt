@@ -31,3 +31,47 @@ It's very likely she will take over the family business one day, and probably ru
 Notable Possession:
 - Wicker Basket
 - Red Hood
+
+
+Character:	
+Red Riding Hood
+Classes: Rogue 
+Level:	1
+Race:	Human
+Alignment:	Gangsta/Indifferent
+Hit Points:	7
+Base Attack Bonus: 0
+
+Strength:	7 (-2)
+Fortitude:	0 + 1 = 1
+Dexterity: 11 (0)
+Reflex:	2 + 0 = 2
+Constitution:	12 (1)
+Will:	2 + -1 = 1
+Intelligence:	14 (2)
+Initiative:	0 +  = 0
+Wisdom:	9 (-1)
+Melee: 0 + -2 +  = -2
+Charisma:	16 (3)
+Ranged:	0 + 0 +  = 0
+
+Armor Class:	0 + 10 + 0 =  10
+
+Skills:
+appraise 4 + 2 = 6
+bluff 6 + 3 = 9
+craft (weaving/sewing) 4 + 2 = 6
+diplomacy 2 + 3 = 5
+forgery 2 + 2 = 4
+intimidate 6 + 3 + 4 (*connected) = 13
+knowledge local 4 + 2 = 6
+listen 4 + -1 = 3
+perform (dancing) 4 + 3 = 7
+sense motive 4 + -1 = 3
+sleight of hand 4 + 0 = 4
+spot 4 + -1 = 3
+
+Feats/Specials:
+iron will
+persuasive
+connected (*well known ganster family. +4 bonus to intimidate)
