@@ -64,18 +64,17 @@ Charisma:	16 (3)
 Ranged:	2 + 0 + 0 = 2
 She can throw a rock I guess 1d2 bludgening damadge
 
-Armor Class:	0 + 10 + 2 = 12
+Armor Class:	2 + 10 + 0 = 12
 
 Skills:
 appraise 4 + 2 = 6
 bluff 6 + 3 = 9
 craft (weaving/sewing) 4 + 2 = 6
 diplomacy 2 + 3 = 5
-forgery 2 + 2 = 4
 intimidate 6 + 3 + 4 (*connected) = 13
 knowledge local 4 + 2 = 6
 listen 4 + -1 = 3
-perform (dancing) 4 + 3 = 7
+perform (dancing) 4 + 3 = 7 (*local celebrity possible +2 bonus)
 sense motive 4 + -1 = 3
 sleight of hand 4 + 2 = 6
 spot 4 + -1 = 3
@@ -84,6 +83,7 @@ Feats/Specials:
 iron will
 persuasive
 connected (*well known ganster family. +4 bonus to intimidate)
+local celebrity (*gets a +2 bonus to perform when performing to those who know of the performer)
 
 Languages:
 Common
