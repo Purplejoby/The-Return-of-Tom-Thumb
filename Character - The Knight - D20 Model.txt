@@ -22,8 +22,8 @@ He's trained in all arms and armour
 Ranged:	2 + 1 + 0 = 3
 He's well trained here too: bows, crossbows, spears, etc
 
-Armor Class: 1 + 10 + 8 = 19
-Full Plate
+Armor Class: 1 + 10 + 7 = 18
+Half-plate
 
 Skills:
 concentration 3 + 3 = 6
