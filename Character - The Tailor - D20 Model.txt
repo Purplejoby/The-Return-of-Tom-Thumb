@@ -51,13 +51,13 @@ use magic device 6 + 4 = 10
 Feats/Specials:
 simple weapon proficiency
 weapon finesse
+combat expertise
 improved disarm
 improved feint 
 improved sunder
 improved trip
 armor proficiency light
 bardic music, bardic knowledge
-inspire competence
 countersong, fascinate
 
 Languages:
