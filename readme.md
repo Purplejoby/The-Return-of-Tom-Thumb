@@ -11,6 +11,7 @@ http://www.d20srd.org/index.htm
 
 ___
 ## The Tailor      
+![The Tailor](https://github.com/PunkUnicorn/The-Return-of-Tom-Thumb/blob/master/TheTailor/The%20Tailor%20Thumbnail.jpg)
 
 ENFP-A  https://www.youtube.com/watch?v=ieVlCLhAsiY
 
@@ -36,5 +37,3 @@ ___
 INFP-T  https://www.youtube.com/watch?v=-XlwQyD2WVQ
 
 [![Tom Thumb](http://img.youtube.com/vi/-XlwQyD2WVQ/0.jpg)](http://www.youtube.com/watch?v=-XlwQyD2WVQ)
-
-
