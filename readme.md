@@ -27,6 +27,8 @@ ISTJ-A  https://www.youtube.com/watch?v=7jgCtOmuWJg
 ___
 ## Red Riding Hood 
 
+![Red Riding Hood](https://github.com/PunkUnicorn/The-Return-of-Tom-Thumb/blob/master/RedRidingHood/Red%20Riding%20Hood%20Thumbnail.jpg)
+
 ESTJ-A  https://youtu.be/_VyKVbKUTRc?t=2m12s
 
 [![Red Riding Hood](http://img.youtube.com/vi/_VyKVbKUTRc/0.jpg)](http://www.youtube.com/watch?v=_VyKVbKUTRc)
