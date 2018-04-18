@@ -1,6 +1,6 @@
 # The Return of Tom Thumb (*And The Seven League Boots*)
 
-![Tom Thumb](https://github.com/PunkUnicorn/The-Return-of-Tom-Thumb/blob/master/TomThumb/Tomthumb2Mugshot.png)
+![Tom Thumb](https://github.com/PunkUnicorn/The-Return-of-Tom-Thumb/blob/master/TomThumb/Tom%20Thumbnail.jpg)
 
 ___
 
