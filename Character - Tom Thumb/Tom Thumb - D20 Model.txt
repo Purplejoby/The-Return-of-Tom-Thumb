@@ -9,7 +9,7 @@ Strength:	8 (-1)
 Dexterity:	16 (3)
 Constitution:	8 (-1)
 Intelligence:	17 (3)
-Wisdom:       17 (3)
+Wisdom:         17 (3)
 Charisma:	17 (3)
 
 Fortitude:	2 + -1 = 1
