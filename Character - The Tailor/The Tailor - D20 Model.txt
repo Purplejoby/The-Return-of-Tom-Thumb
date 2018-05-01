@@ -1,26 +1,26 @@
 Character: The Tailor
 Class: Bard 3 
-Race:	Human
-Hit Points:	15
-Alignment:	Incognito/Benevolent Mentor
-Base Attack Bonus:	2
+Race: Human
+Hit Points: 15
+Alignment: Incognito/Benevolent Mentor
+Base Attack Bonus: 2
 
-Strength:	12 (1)
+Strength: 12 (1)
 Dexterity: 18 (4)
-Constitution:	12 (1)
-Intelligence:	16 (3)
-Wisdom:	14 (2)
-Charisma:	18 (4)
+Constitution: 12 (1)
+Intelligence: 16 (3)
+Wisdom: 14 (2)
+Charisma: 18 (4)
 
 Fortitude: 1 + 1 = 2
-Reflex:	3 + 4 = 7
-Will:	3 + 2 = 5
+Reflex: 3 + 4 = 7
+Will: 3 + 2 = 5
 
-Initiative:	4 + 0 = 4
+Initiative: 4 + 0 = 4
 Melee: 2 + 1 + 0 = 3
 Melee with light weapon: 2 + 4 + 0 = 6 (*Weapon Finess)
 Will take typically take Total Defence and on attack use disarm, feint, sunder and trip
-Ranged:	2 + 4 + 0 = 6
+Ranged: 2 + 4 + 0 = 6
 
 Armor Class: 4 + 10 + 0 = 14
 
