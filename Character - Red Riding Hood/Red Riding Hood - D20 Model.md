@@ -43,7 +43,9 @@ She's got it all sorted, who's she going to smash a jug over?
 
 She can throw a rock I guess 1d2 (-2 Str.) bludgening damadge but as you can see it won't do any damadge
 
-Armor Class: 2 + 10 + 0 = 12
+ `@}}>-----` | Mod. + Base + Armour | Score
+  ---: | :---: | :---
+Armor Class | 2 + 10 + 0 | = 12
 
 | Skill | Ranks + Mod. (+ Special) | Score |
 | ---: | :---: | :--- |
@@ -61,14 +63,13 @@ Armor Class: 2 + 10 + 0 = 12
 | Ride | 1 + 3 | = 4 (preference for side-saddle) |
 
 | Feats/Specials | Notes |
-| ---: | :---: | :--- |
+| ---: | :--- | 
 | iron will | |
 | persuasive | |
 | connected | (*well known ganster family. +4 bonus to intimidate) |
 | local celebrity | (*gets a +2 bonus to perform when performing to those who know of the performer. Also 1D4 close friends in any town she's performed in. With Red this is typically a large group of girl-friends, 1D4 of which are in her inner circle) |
 
-| Languages | 
-| :--- | 
-| Common |
-| Theives can;t (aka peddler's French) |
-| (note she can learn two more languages (Int. bonus of 2)) |
+⋅### Languages 
+⋅⋅⋅Common
+⋅⋅⋅Theives can;t (*aka peddler's French*)
+⋅⋅⋅(note she can learn two more languages (*Int. bonus of 2*)
