@@ -24,6 +24,7 @@ Base Attack Bonus | 0
 | Will | 2 + -1 | = 1 |
 
 | `@}}>-----` | Mod. (+special) | Score |
+| ---: | :---: | :--- |
 | Initiative | 2 + 0 | = 2 |
 
 | Attack | Base + Mod. (+ Special) | Score |
@@ -47,6 +48,7 @@ She can throw a rock I guess 1d2 (-2 Str.) bludgening damadge but as you can see
   ---: | :---: | :---
 Armor Class | 2 + 10 + 0 | = 12
 
+## Skills
 | Skill | Ranks + Mod. (+ Special) | Score |
 | ---: | :---: | :--- |
 | appraise | 2 + 2 | = 6 |
@@ -62,6 +64,7 @@ Armor Class | 2 + 10 + 0 | = 12
 | spot | 4 + -1 | = 3 |
 | Ride | 1 + 3 | = 4 (preference for side-saddle) |
 
+## Feats
 | Feats/Specials | Notes |
 | ---: | :--- | 
 | iron will | |
