@@ -5,12 +5,14 @@ Hit Points: 7
 Alignment: Gangster/Indifferent
 Base Attack Bonus: 0
 
-Strength: 7 (-2)
-Dexterity: 14 (2)
-Constitution: 12 (1)
-Intelligence: 14 (2)
-Wisdom: 9 (-1)
-Charisma: 16 (3)
+| /Attribute/ | /n//18/ | /Modifier/ |
+| ---: | :---: | :--- |
+| Strength | 7 | (-2) |
+| Dexterity | 14 | (2) |
+| Constitution | 12 | (1) |
+| Intelligence | 14 | (2) |
+| Wisdom | 14 | (2) |
+| Charisma | 16 | (3) |
 
 Fortitude: 0 + 1 = 1
 Reflex: 2 + 2 = 4
