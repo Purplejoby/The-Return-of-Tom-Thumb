@@ -1,11 +1,16 @@
-Character: Red Riding Hood
+h1 Red Riding Hood
+
 Class: Rogue 1
+
 Race: Human
+
 Hit Points: 7
+
 Alignment: Gangster/Indifferent
+
 Base Attack Bonus: 0
 
-| /Attribute/ | /n//18/ | /Modifier/ |
+| Attribute | n/18 | Modifier (Mod.) |
 | ---: | :---: | :--- |
 | Strength | 7 | (-2) |
 | Dexterity | 14 | (2) |
@@ -14,35 +19,46 @@ Base Attack Bonus: 0
 | Wisdom | 14 | (2) |
 | Charisma | 16 | (3) |
 
-Fortitude: 0 + 1 = 1
-Reflex: 2 + 2 = 4
-Will: 2 + -1 = 1
+| Save | Rank + Mod. (+ Special) | Score |
+| ---: | :---: | :--- |
+| Fortitude | 0 + 1 | = 1 |
+| Reflex | 2 + 2 | = 4 |
+| Will | 2 + -1 | = 1 |
 
-Initiative: 2 + 0 = 2
-Melee: 0 + -2 + 0 = -2
+| Initiative | 2 + 0 | = 2 |
+
+| Attack | Base + Mod. (+ Special) | Score |
+| ---: | :---: | :--- |
+| Melee | 0 + -2 + 0 | = -2 |
+| Ranged |	0 + 2 + 0 | = 2 |
+
 She doesn't fight
+
 She might smash a big porcline Jug over someones head, 1d2+1 (-2 Str.) point of subdual damadge
+
 But she knows all the bandits, robbers and low life, they work for her dad
+
 And the Kings Knights think her dad is a hero, and she is well known, and well in favour with them
+
 She's got it all sorted, who's she going to smash a jug over?
-Ranged:	0 + 2 + 0 = 2
+
 She can throw a rock I guess 1d2 (-2 Str.) bludgening damadge but as you can see it won't do any damadge
 
 Armor Class: 2 + 10 + 0 = 12
 
-Skills:
-appraise 2 + 2 = 6
-bluff 6 + 3 = 9
-craft (weaving/sewing) 4 + 2 = 6
-diplomacy 2 + 3 = 5
-intimidate 6 + 3 + 4 (*connected) = 13
-knowledge (local) 4 + 2 = 6
-listen 4 + -1 = 3
-perform (dancing) 4 + 3 = 7 (*local celebrity possible +2 bonus)
-sense motive 4 + -1 = 3
-sleight of hand 4 + 2 = 6
-spot 4 + -1 = 3
-Ride 1 + 3 = 4 (preference for side-saddle)
+| Skill | Ranks + Mod. (+ Special) | Score |
+| appraise | 2 + 2 | = 6 |
+| bluff | 6 + 3 | = 9 |
+| craft (weaving/sewing) | 4 + 2 | = 6 |
+| diplomacy | 2 + 3 | = 5 |
+| intimidate | 6 + 3 + 4 (*connected) | = 13 |
+| knowledge (local) | 4 + 2 | = 6 |
+| listen | 4 + -1 | = 3 |
+| perform (dancing) | 4 + 3 | = 7 (*local celebrity possible +2 bonus) |
+| sense motive 4 + -1 = 3 |
+| sleight of hand 4 + 2 = 6 |
+| spot | 4 + -1 | = 3 |
+| Ride | 1 + 3 | = 4 (preference for side-saddle) |
 
 Feats/Specials:
 iron will
