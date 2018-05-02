@@ -1,14 +1,12 @@
 # Red Riding Hood
 
-Class: Rogue 1
-
-Race: Human
-
-Hit Points: 7
-
-Alignment: Gangster/Indifferent
-
-Base Attack Bonus: 0
+ |
+---: | :--- 
+Class | Rogue 1
+Race | Human
+Hit Points | 7
+Alignment | Gangster/Indifferent
+Base Attack Bonus | 0
 
 | Attribute | n/18 | Modifier Bonus (Mod.) |
 | ---: | :---: | :--- |
@@ -25,7 +23,8 @@ Base Attack Bonus: 0
 | Reflex | 2 + 2 | = 4 |
 | Will | 2 + -1 | = 1 |
 
-| Initiative | 2 + 0 | = 2 |
+|  | Mod. (+special) | Score |
+| Initiative | 2 + 0 | = 2
 
 | Attack | Base + Mod. (+ Special) | Score |
 | ---: | :---: | :--- |
