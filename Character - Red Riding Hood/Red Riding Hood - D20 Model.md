@@ -1,6 +1,6 @@
 # Red Riding Hood
 
- |
+`@}}>-----` | `--------{---(@`
 ---: | :--- 
 Class | Rogue 1
 Race | Human
@@ -23,7 +23,7 @@ Base Attack Bonus | 0
 | Reflex | 2 + 2 | = 4 |
 | Will | 2 + -1 | = 1 |
 
-|  | Mod. (+special) | Score |
+| `@}}>-----` | Mod. (+special) | Score |
 | Initiative | 2 + 0 | = 2
 
 | Attack | Base + Mod. (+ Special) | Score |
