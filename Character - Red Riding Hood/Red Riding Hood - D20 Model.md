@@ -15,7 +15,7 @@ Base Attack Bonus | 0
 | Dexterity | 14 | (2) |
 | Constitution | 12 | (1) |
 | Intelligence | 14 | (2) |
-| Wisdom | 14 | (2) |
+| Wisdom |9 | (-1) |
 | Charisma | 16 | (3) |
 
 ## Saves
@@ -23,7 +23,7 @@ Base Attack Bonus | 0
 | ---: | :---: | :--- |
 | Fortitude | 0 + 1 | = 1 |
 | Reflex | 2 + 2 | = 4 |
-| Will | 2 + -1 | = 1 |
+| Will | 0 + -1 + 2 *(*iron will*) | = 1 |
 
 ## Melee
 | `@}}>-----` | Mod. (+special) | Score |
@@ -65,7 +65,7 @@ Armor Class | 2 + 10 + 0 | = 12
 | sense motive 4 + -1 = 3 |
 | sleight of hand 4 + 2 = 6 |
 | spot | 4 + -1 | = 3 |
-| Ride | 1 + 3 | = 4 (preference for side-saddle) |
+| ride | 1 + 3 | = 4 (preference for side-saddle) |
 
 ## Feats
 | Feats/Specials | Notes |
