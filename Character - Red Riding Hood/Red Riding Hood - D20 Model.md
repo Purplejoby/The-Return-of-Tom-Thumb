@@ -24,7 +24,7 @@ Base Attack Bonus | 0
 | Will | 2 + -1 | = 1 |
 
 | `@}}>-----` | Mod. (+special) | Score |
-| Initiative | 2 + 0 | = 2
+| Initiative | 2 + 0 | = 2 |
 
 | Attack | Base + Mod. (+ Special) | Score |
 | ---: | :---: | :--- |
