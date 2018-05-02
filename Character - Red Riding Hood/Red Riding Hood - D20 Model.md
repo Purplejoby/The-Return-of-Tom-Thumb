@@ -8,6 +8,7 @@ Hit Points | 7
 Alignment | Gangster/Indifferent
 Base Attack Bonus | 0
 
+## Attributes
 | Attribute | n/18 | Modifier Bonus (Mod.) |
 | ---: | :---: | :--- |
 | Strength | 7 | (-2) |
@@ -17,12 +18,14 @@ Base Attack Bonus | 0
 | Wisdom | 14 | (2) |
 | Charisma | 16 | (3) |
 
+## Saves
 | Save | Rank + Mod. (+ Special) | Score |
 | ---: | :---: | :--- |
 | Fortitude | 0 + 1 | = 1 |
 | Reflex | 2 + 2 | = 4 |
 | Will | 2 + -1 | = 1 |
 
+## Melee
 | `@}}>-----` | Mod. (+special) | Score |
 | ---: | :---: | :--- |
 | Initiative | 2 + 0 | = 2 |
@@ -32,9 +35,9 @@ Base Attack Bonus | 0
 | Melee | 0 + -2 + 0 | = -2 |
 | Ranged |	0 + 2 + 0 | = 2 |
 
-She doesn't fight
+**She doesn't fight**
 
-She might smash a big porcline Jug over someones head, 1d2+1 (-2 Str.) point of subdual damadge
+She might smash a big porcline Jug over someones head, `1d2+1 (-2 Str.) point of subdual damadge`
 
 But she knows all the bandits, robbers and low life, they work for her dad
 
@@ -42,7 +45,7 @@ And the Kings Knights think her dad is a hero, and she is well known, and well i
 
 She's got it all sorted, who's she going to smash a jug over?
 
-She can throw a rock I guess 1d2 (-2 Str.) bludgening damadge but as you can see it won't do any damadge
+She can throw a rock I guess `1d2 (-2 Str.) bludgening damadge` but as you can see it won't do any damadge
 
  `@}}>-----` | Mod. + Base + Armour | Score
   ---: | :---: | :---
