@@ -32,9 +32,12 @@ Will | 3 + 2 | = 5
 
 | Attack | Base + Mod. (+ Special) | Score |
 | ---: | :---: | :--- |
-| Melee | 2 + 1 + 0 | = 3 |
+| Melee *1 | 2 + 1 + 0 | = 3 |
+| Melee light *2 | 2 + 4 + 0 | = 6 |
 | Ranged | 2 + 4 + 0 | = 6 |
-| Melee with light weapon | 2 + 4 + 0 | = 6 (*Weapon Finess) |
+
+`*1 medium or heavy weapons`
+`*2 light weapons (weapon finesse)`
 
 Will take typically take Total Defence and on attack use disarm, feint, sunder and trip
 
