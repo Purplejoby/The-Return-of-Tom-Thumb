@@ -29,6 +29,9 @@ Charisma | 9 | (-1)
 | `@}}>-----` | Mod. (+special) | Score |
 | ---: | :---: | :--- |
 | Initiative | 1 + 0 | = 1 |
+
+| Attack | Base + Mod. (+ Special) | Score |
+| ---: | :---: | :--- |
 | Melee | 2 + 3 + 0 | = 5 |
 | Ranged | 2 + 1 + 0 | = 3 |
 
