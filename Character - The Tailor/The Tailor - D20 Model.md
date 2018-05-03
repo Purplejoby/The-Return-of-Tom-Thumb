@@ -68,19 +68,23 @@ spellcraft | 6 + 3 | = 9
 use magic device | 6 + 4 | = 10
 
 
-Feats/Specials:
-simple weapon proficiency
-weapon finesse
-combat expertise
-improved disarm
-improved feint 
-improved sunder
-improved trip
-armor proficiency light
-bardic music, bardic knowledge
-countersong, fascinate
+## Feats
+Feats/Specials | Notes
+---: | :---
+simple weapon proficiency |
+weapon finesse | 
+combat expertise |
+improved disarm |
+improved feint |
+improved sunder |
+improved trip |
+armor proficiency light |
+bardic music |
+bardic knowledge |
+countersong | 
+fascinate |
 
 Languages:
-Common, 
-Thieves cant,
-Four other languages possibly from another dimension
+- Common, 
+- Thieves cant,
+- Four other languages possibly from another dimension
