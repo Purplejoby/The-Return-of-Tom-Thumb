@@ -11,12 +11,12 @@ Base Attack Bonus | 2
 ## Attributes
 Attribute | n/18 | Modifier Bonus (Mod.)
 ---: | :---: | :---
-Strength | 12 (1)
-Dexterity | 18 (4)
-Constitution | 12 (1)
-Intelligence | 16 (3)
-Wisdom | 14 (2)
-Charisma | 18 (4)
+Strength | 12 | (1)
+Dexterity | 18 | (4)
+Constitution | 12 | (1)
+Intelligence | 16 | (3)
+Wisdom | 14 | (2)
+Charisma | 18 | (4)
 
 ## Saves
 | Save | Rank + Mod. (+ Special) | Score |
@@ -33,8 +33,9 @@ Will | 3 + 2 | = 5
 | Attack | Base + Mod. (+ Special) | Score |
 | ---: | :---: | :--- |
 | Melee | 2 + 1 + 0 | = 3 |
-| Ranged: 2 + 4 + 0 | = 6 |
+| Ranged | 2 + 4 + 0 | = 6 |
 | Melee with light weapon | 2 + 4 + 0 | = 6 (*Weapon Finess) |
+
 Will take typically take Total Defence and on attack use disarm, feint, sunder and trip
 
  `@}}>-----` | Mod. + Base + Armour | Score
